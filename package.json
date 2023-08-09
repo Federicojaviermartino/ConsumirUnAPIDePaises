@@ -1,0 +1,14 @@
+{
+    "name": "api-de-paises",
+    "version": "1.0.0",
+    "description": "Api de paises",
+    "main": "script.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Federico Javier Martino",
+    "license": "ISC",
+    "dependencies": {
+        "leaflet": "^1.9.4"
+    }
+}
